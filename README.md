@@ -28,6 +28,5 @@
 
 ### 📫 Contact me via:
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/quanngha/)
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/hoang-hoang-232767141/)
 
-[website]: https://www.youtube.com/channel/UCN03cDDMfrD6Iyxk20_dvmQ
