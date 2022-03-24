@@ -3,7 +3,7 @@
 
 - 🔭 I'm passionate about Data Analytics and Data Science
 - 🥅 2022 Goals: Starting a new career path in Data Science and  Working on more DS Projects
-- ⚡ Fun fact: I work in Singapore but travel to Vietnam every two week before Covid 😅
+- ⚡ Fun fact: I graduated from Foreign Trade University in 2020, and my major is International Economics. Econometrics was the subject i learned the most. I have had a passion for data science from that time 😅
 
 ### :zap: GitHub Stats
 
