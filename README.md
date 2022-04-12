@@ -21,7 +21,6 @@
 <td width="52%"><img alt="gif" align="right" src="https://raw.githubusercontent.com/nguyenhuuhoang3697/CodexploreRepo/master/.github/assets/coding.gif"/></td>
 </tr>
 <table>
- https://nguyenhuuhoang3697.github.io/Predict-Churn-Customers-Project/
 
  
 
