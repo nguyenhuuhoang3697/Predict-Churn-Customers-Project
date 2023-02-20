@@ -1,4 +1,4 @@
-### Hi, I'm Hoang Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - Junior Data Analyst🌱 
+### Hi, I'm Hoang Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - Data Analyst🌱 
 
 
 - 🔭 I'm passionate about Data Analytics and Data Science
