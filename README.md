@@ -3,7 +3,7 @@
 
 - 🔭 I'm passionate about Data Analytics and Data Science
 - 🥅 2022 Goals: Starting a new career path in Data Science and  Working on more DS Projects
-- ⚡ Fun fact: I graduated from Foreign Trade University in 2020, and my major is International Economics. Econometrics was the subject i learned the most. I have had a passion for data science from that time 😅
+- ⚡ Fun fact: I graduated from Foreign Trade University in 2020, and my major is International Economics. Econometrics was the subject i learned the most. I had a passion for data science from that time 😅
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
